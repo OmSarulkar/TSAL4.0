@@ -1,0 +1,12 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [TSAL.PrjPcb]
+   Generated File[TSALpcb.RUL]
+   Generated File[TSALpcb.EXTREP]
+   Generated File[TSALpcb.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 15:26:22 On 17-09-21

@@ -1,0 +1,20 @@
+Change Component Footprint: Designator=U1 Old Footprint=D0008A_M New Footprint=P0008A
+Change Component Comment : Designator=U1 Old Comment=LM555CM New Comment=NE555P
+Change Managed Component Library Link : Designator=U1 Old VaultGUID=5F094B94-06FE-49EC-BA51-24113A08795D New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=827BA8BE-87EB-4C13-A00F-EB686FB6673F New ItemGUID=F3653538-8C11-423C-A13B-C660CD5D44F3 Old RevisionGUID=29923F75-3FB1-43EA-89CA-1BD06B26D054 New RevisionGUID=57346478-18B7-436A-A58F-D220938AD30B
+Change component parameters: Designator = "U1" ("U1"); Footprint = "D0008A_M"; UniqueID = "\TOCMVQEW" ("\TOCMVQEW")
+Change component parameters (AddParameter): Name = "Category"; Value = "Timer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=NE555&fileType=pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Rev. I, 09/2014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TexasInstruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum High Level Output Current"; Value = "-200mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum Low Level Output Current"; Value = "200mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Internal Timers"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Voltage"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "8PDIP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "8-Pin Double In-line Package, Body 9.59 x 6.35 mm, Pitch 2.54 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "P8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package URL"; Value = "http://www.ti.com/lit/ml/mpdi001b/mpdi001b.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rad Hard"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Standard"; VariantName = "[No Variations]"
